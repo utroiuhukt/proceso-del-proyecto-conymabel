@@ -1,4 +1,4 @@
-##ACTIVIDAD 2
+## ACTIVIDAD 2
 ========================
 Desde una perspectiva *utilitarista*, la decisión de los hackers de filtrar la información puede evaluarse dependiendo si sus acciones generaron mas felicidad o sufrimiento para la mayoria de la gente involucrada, incluyendo las familias de los esposos **infieles**.
 
